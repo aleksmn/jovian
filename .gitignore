@@ -1,3 +1,4 @@
-/.ipynb_checkpoints
-/.jovianrc
-/.vscode
+.ipynb_checkpoints
+.jovianrc
+.vscode
+.yml
