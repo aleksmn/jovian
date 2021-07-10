@@ -2,7 +2,7 @@
 .jovianrc
 .vscode
 *.yml
-
+*.csv
 
 pytorch/03-logistic-regression/data/MNIST/processed/test.pt
 pytorch/03-logistic-regression/data/MNIST/processed/training.pt
