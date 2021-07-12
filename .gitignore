@@ -4,6 +4,8 @@
 *.yml
 *.csv
 
+kaggle.json
+
 pytorch/03-logistic-regression/data/MNIST/processed/test.pt
 pytorch/03-logistic-regression/data/MNIST/processed/training.pt
 pytorch/03-logistic-regression/data/MNIST/raw/t10k-images-idx3-ubyte
