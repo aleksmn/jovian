@@ -3,6 +3,7 @@
 .vscode
 *.yml
 *.csv
+*.zip
 
 kaggle.json
 
